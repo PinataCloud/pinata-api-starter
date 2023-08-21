@@ -1,10 +1,10 @@
-# Pinata API Calls
+# Pinata API Starter
 This is a quick repo that allows users to quick start testing the most popular Pinata API calls! 
 
 ## Installation and Setup
 You will need to have node.js installed. Next clone the repo and install the dependencies.
 
-```git clone https://github.com/stevedsimkins/pinata-api-calls && cd pinata-api-calls && npm install```
+```git clone https://github.com/PinataCloud/pinata-api-starter && cd pinata-api-starter && npm install```
 
 After that, cd into the directory and create a .env file in the root of the folder:
 
