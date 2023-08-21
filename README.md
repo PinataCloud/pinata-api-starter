@@ -10,9 +10,11 @@ After that, cd into the directory and create a .env file in the root of the fold
 
 ```touch .env```
 
-Open the .env file and add in your [Pinata API JWT](https://knowledge.pinata.cloud/en/articles/6191471-how-to-create-an-pinata-api-key) with the format below:
+Open the .env.example file and add in your [Pinata API JWT](https://knowledge.pinata.cloud/en/articles/6191471-how-to-create-an-pinata-api-key) with the format below:
 
 ```PINATA_JWT=REPLACE_THIS_WITH_YOUR_PINATA_JWT```
+
+After you have done that save the file as just `.env`
 
 ## Test it! 
 
